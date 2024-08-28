@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204377634447",
+    "project_id": "cash-book-a5f6e",
+    "storage_bucket": "cash-book-a5f6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204377634447:android:285aaed247b7a4e03d62fa",
+        "android_client_info": {
+          "package_name": "com.kripesh.cash_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0A1uLsKaeRQz2sU2heH1P8mNVD_5bksQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
